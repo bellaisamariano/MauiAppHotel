@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = silent
+
+# IDE0005: O uso da diretiva é desnecessário.
+dotnet_diagnostic.IDE0005.severity = silent
